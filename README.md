@@ -9,7 +9,7 @@ API REST para la asignación automática de asientos en vuelos, diseñada para o
 - **Pool de Conexiones**: Gestión eficiente de conexiones a la base de datos MySQL
 - **Manejo de Errores**: Sistema robusto de manejo de errores con logging detallado
 - **Conversión de Formatos**: Convierte automáticamente de snake_case a camelCase en las respuestas
-- **Testing**: Suite de pruebas incluida con Jest y Supertest
+- **Testing**: Suite de pruebas incluida con Jest y Supertest (no funcional aún, recomiendo testear en https://pruebabsale.onrender.com/flights/:id/passengers)
 
 ## 📋 Requisitos Previos
 
